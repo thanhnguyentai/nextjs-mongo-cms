@@ -12,7 +12,7 @@ Technicall there are 4 parts to implement:<br/>
 3 - Apis<br/>
 4 - Database<br/>
 
-Additionaly we will use docker and k8s to testing the project locally
+Additionaly we will use docker and k8s to test the project locally
 
 Nov 25th, 2021<br/>
 Initializing the project
