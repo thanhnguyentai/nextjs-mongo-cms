@@ -7,7 +7,7 @@ Overrall there are 3 parts:<br/>
 3 - Database: use mongodb to store all information<br/>
 
 Technicall there are 4 parts to implement:<br/>
-1 - Admin pages<br/><br/>
+1 - Admin pages<br/>
 2 - Frontend pages<br/>
 3 - Apis<br/>
 4 - Database<br/>
